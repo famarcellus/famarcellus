@@ -20,3 +20,5 @@ My name is Fabio Marcellus. I'm a passionate Front End Developer from Boston wit
 Check out my [Resume](https://docs.google.com/document/d/1QhR37R64BD3vKCnjmn53x5i37IjoLAv1DTYM6l80r7M/edit?usp=sharing)
 
 Check out my [Portfolio](https://www.fabio-marcellus.com/)
+
+Check out my [LinkedIn](https://www.linkedin.com/in/fabio-marcellus-a7b324196/)
