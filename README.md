@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 My name is Fabio Marcellus. I'm a passionate Front End Developer from Boston with a background in Computer Science who loves to code and create amazing applications. I am proficient when it comes to Design skills, making responsive web applications, creating clean and reusable code, SEO, and Accessibility. 
 
-Check out my [Resume](https://docs.google.com/document/d/1QhR37R64BD3vKCnjmn53x5i37IjoLAv1DTYM6l80r7M/edit?usp=sharing)
-
 Check out my [Portfolio](https://www.fabio-marcellus.com/)
 
 Check out my [LinkedIn](https://www.linkedin.com/in/fabio-marcellus-a7b324196/)
