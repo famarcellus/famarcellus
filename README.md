@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Fabio Marcellus. I'm a passionate Front End Developer from Boston with a background in Computer Science who loves to code and create amazing applications. I am proficient when it comes to Design skills, making responsive web applications, creating clean and reusable code, SEO, and Accessibility. 
+My name is Fabio Marcellus. I'm a passionate Front End Developer from Boston with a background in Computer Science who loves to code and create web applications with React. I use my Design skills to create appealing websites and make responsive accessible web applications using clean and reusable code.
 
 Check out my [Portfolio](https://www.fabio-marcellus.com/)
 
