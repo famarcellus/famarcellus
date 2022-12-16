@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Fabio Marcellus. I'm a passionate Front End Developer from Boston with a background in Computer Science who loves to code and create web applications with React. I use my Design skills to create appealing websites and make responsive accessible web applications using clean and reusable code.
+My name is Fabio Marcellus. I'm a passionate Full Stack Developer with a Bachelor's in CS who loves coding and solving problems. I aim to create appealing websites, functional, and scalable wep applications for anyone to enjoy!
 
-Check out my [Portfolio](https://www.fabio-marcellus.com/)
 
 Check out my [LinkedIn](https://www.linkedin.com/in/fabio-marcellus-a7b324196/)
